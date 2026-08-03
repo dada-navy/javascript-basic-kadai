@@ -6,7 +6,6 @@ const holidays = ["正月", "成人の日", "建国記念日", "天皇誕生日"
 for (let i = 0; i < holidays.length; i++) {
     console.log(holidays[i]);
 }
-
 // while文の場合
 let j = 0;
 while (j < holidays.length) {
